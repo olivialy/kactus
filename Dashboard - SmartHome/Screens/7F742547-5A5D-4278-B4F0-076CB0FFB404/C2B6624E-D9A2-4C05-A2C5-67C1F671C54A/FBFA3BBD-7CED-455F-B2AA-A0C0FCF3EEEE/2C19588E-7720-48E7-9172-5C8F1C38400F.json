@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Roboto-Bold",
+              "name": "Roboto-Light",
               "size": 50
             }
           },
@@ -26,11 +26,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 17,
+        "length": 15,
         "location": 0
       }
     ],
-    "string": "Connect your life"
+    "string": "Welcome back :)"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -50,12 +50,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 58,
-    "width": 383,
+    "height": 66,
+    "width": 362,
     "x": 0,
     "y": 72
   },
-  "glyphBounds": "{{2, 13}, {379, 50}}",
+  "glyphBounds": "{{1, 12}, {357, 52}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -64,7 +64,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Connect your life",
+  "name": "Welcome back :)",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -100,7 +100,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Roboto-Bold",
+            "name": "Roboto-Light",
             "size": 50
           }
         },

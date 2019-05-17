@@ -26,11 +26,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 17,
+        "length": 9,
         "location": 0
       }
     ],
-    "string": "Control your home"
+    "string": "Hey you !"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -52,11 +52,11 @@
     "constrainProportions": false,
     "do_objectID": "0C64F4AE-0098-4E90-89C1-8EC0352A8F4B",
     "height": 66,
-    "width": 408,
+    "width": 200,
     "x": 0,
     "y": 0
   },
-  "glyphBounds": "{{3, 13}, {403, 50}}",
+  "glyphBounds": "{{4, 16}, {193, 47}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Control your home",
+  "name": "Hey you !",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
