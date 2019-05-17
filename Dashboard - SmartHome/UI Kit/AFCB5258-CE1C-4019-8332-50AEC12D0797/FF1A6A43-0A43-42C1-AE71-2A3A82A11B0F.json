@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "FF1A6A43-0A43-42C1-AE71-2A3A82A11B0F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "537E57F4-3B0D-47F6-BC6A-2FFF122F47FA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AA30A3A5-96EF-4AD6-B6D0-A16A0D16907C",
+    "height": 110,
+    "width": 160,
+    "x": 90,
+    "y": 3591
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Molecules / Layouts / #1 Copy 4",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5D7ADE7F-EE8F-420F-B5FB-57134402A9C8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "BC9D180F-E7B2-462A-91B3-59C873233C33",
+  "verticalSpacing": 0
+}

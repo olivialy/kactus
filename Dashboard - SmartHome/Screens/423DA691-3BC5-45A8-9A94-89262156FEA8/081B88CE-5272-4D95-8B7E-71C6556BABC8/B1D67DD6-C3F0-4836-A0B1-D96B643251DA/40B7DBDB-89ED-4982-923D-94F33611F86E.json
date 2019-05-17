@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "40B7DBDB-89ED-4982-923D-94F33611F86E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "400C0100-0B50-47C0-A214-AAB52468E758",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7C4D49E4-6251-4D7A-858D-8B2FD86C8F30",
+    "height": 44,
+    "width": 1103,
+    "x": 19,
+    "y": 64
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "#2",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9119F2B8-1892-4F88-9E0F-7BB2F40164A1",
+      "overrideName": "0582F03B-3672-43BA-A057-271DBB3195B7_symbolID",
+      "value": "9BA794C8-E438-4A2E-8DD0-DAD2BA0D247D"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "28FD693E-66F3-4766-B461-9D2BF55398A4",
+      "overrideName": "30B06D72-2CB4-4FEC-A873-2126D09F2757_stringValue",
+      "value": "The system's storage is at 89%. Please upgrade your plan to free up some space."
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "21FD44C4-2991-4010-9D97-B51CA9A12F4D",
+      "overrideName": "0582F03B-3672-43BA-A057-271DBB3195B7/760EA0C0-FF1D-4AA6-8BB3-CD8EDC234381_symbolID",
+      "value": "9AF0891A-AD93-4C70-9E44-9DC58F213CA0"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D3C259A0-3463-4798-A867-9F216AF189A2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "3A9C901A-7C5C-4A04-950C-43AEDC1A80FD",
+  "verticalSpacing": 0
+}

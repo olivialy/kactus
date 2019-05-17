@@ -1,0 +1,73 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "41DD18ED-9187-48CA-B461-240BDD3A1C21",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 52,
+    "width": 272.0000000000005,
+    "x": 0,
+    "y": 104
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "#3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "72506702-5E4C-49FA-9295-DF9144CD5D85",
+      "overrideName": "D12A877F-9C6E-4020-AF05-7003057C3FA3_stringValue",
+      "value": "09-03-2018"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8847E4E3-D133-43DC-AC17-D3D09E6F0922",
+      "overrideName": "DC13C69B-88EB-45EB-A2F9-4F3B41DF38DA_symbolID",
+      "value": "9BA794C8-E438-4A2E-8DD0-DAD2BA0D247D"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C0BD86ED-AA5F-44A3-9ED8-5869C143E994",
+      "overrideName": "DC13C69B-88EB-45EB-A2F9-4F3B41DF38DA/760EA0C0-FF1D-4AA6-8BB3-CD8EDC234381_symbolID",
+      "value": "9AF0891A-AD93-4C70-9E44-9DC58F213CA0"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C6BD284C-937E-4B05-9BDE-CCEA7D3AE882",
+      "overrideName": "4C180881-F158-4C9D-AEEE-871DB704BDA9_stringValue",
+      "value": "System update available"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F17E4B5B-31F6-40BF-A046-764DA700A735",
+  "verticalSpacing": 0
+}

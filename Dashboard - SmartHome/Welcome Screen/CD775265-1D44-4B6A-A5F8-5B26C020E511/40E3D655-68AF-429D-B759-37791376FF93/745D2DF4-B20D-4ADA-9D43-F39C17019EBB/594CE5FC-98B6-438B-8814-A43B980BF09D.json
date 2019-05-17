@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "594CE5FC-98B6-438B-8814-A43B980BF09D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "11F1DEDC-4008-4494-A08E-EA8A00FB478C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BBD62EB9-A8CC-4A7E-93F8-56C085C97F10",
+    "height": 79.93333333333332,
+    "width": 93.85714285714288,
+    "x": 64.65714285714286,
+    "y": 75.78095238095237
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Chart",
+  "nameIsFixed": true,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1.049999952316284,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "D87E14ED-9BCF-4773-89EA-7FCFCE2F184F",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10.49999952316284,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "7CD5A975-F6D1-49D0-A64F-FE6121BFD0C8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "4A0C76B8-1972-4415-B103-45E4DA50DBE5",
+  "verticalSpacing": 0
+}

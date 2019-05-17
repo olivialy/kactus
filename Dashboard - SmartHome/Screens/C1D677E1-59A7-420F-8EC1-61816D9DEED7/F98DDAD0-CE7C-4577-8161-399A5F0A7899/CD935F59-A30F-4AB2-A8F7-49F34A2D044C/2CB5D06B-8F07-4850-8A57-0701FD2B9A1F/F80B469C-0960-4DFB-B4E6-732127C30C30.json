@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "F80B469C-0960-4DFB-B4E6-732127C30C30",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1E7899EE-8E8C-47A4-B7BB-0056A3236B03",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D4570E29-9A34-4F1F-8093-3E8A6AC9EAFF",
+    "height": 66,
+    "width": 512,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "#1",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CC34EC97-AB3D-414E-A3BC-ADD61DE0F5CB",
+      "overrideName": "CDF68952-200F-431D-AE7E-B86139671FA5_stringValue",
+      "value": "Thermostat"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3583A50A-73E0-4F71-B548-3DFF96D8DE90",
+      "overrideName": "7DC45FAE-69E8-49BA-BFA0-7038BB6CFC11_stringValue",
+      "value": "Description of the rule."
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E39BC6AE-E8CD-4EBD-863F-A56D62D2F3AD",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "AB7540EC-B2C2-4EB8-8A6A-236353FBEC8C",
+  "verticalSpacing": 0
+}

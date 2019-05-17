@@ -1,0 +1,77 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "4D39DC9E-2839-4436-825F-71E12B5ED7B8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2F3B4353-F8DD-48F1-8703-36A74B98E60B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "2A131EF5-5B20-4A87-8CEC-050D5248F0A7",
+    "height": 60,
+    "width": 66,
+    "x": 16,
+    "y": 20
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "23C5944E-717E-4981-AF51-A69F4BEED83E"
+    }
+  ],
+  "name": "007-light",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "36B2EAFD-BFB4-4EA7-8E5C-0027EB3A7A59",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 59,
+            "enabled": 1,
+            "modelID": "constraint_7609e502-6e52-4ebf-8b68-208f7cf7c01b",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 64.9
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_1d290c7e-5acf-494b-95bc-e2d44a22757d",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

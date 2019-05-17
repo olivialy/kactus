@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "06194DD3-6DED-4551-AC56-B2B595449AE2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A821FA35-C593-4A87-93E0-043CB5BEF9C7",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "60E907A7-DCF8-499B-8676-8F97BA78D351",
+    "height": 208,
+    "width": 209,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Card",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D367B6B1-8E58-4CB6-B32B-5768B792E73F",
+      "overrideName": "B9AAC29F-F3D9-435B-9DD3-50C187DE27D7/D349E23D-E774-476A-A075-1226239CC3F2_stringValue",
+      "value": "Devices Limit"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5F0F9D0E-F03E-44F5-87C9-C25E178322E2",
+      "overrideName": "B9AAC29F-F3D9-435B-9DD3-50C187DE27D7/1C887293-8007-4AE0-BCC0-18DBFF23733B_stringValue",
+      "value": "Device Limit"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "56EF9D7F-7BAC-4CAF-8773-D93C82A5CA8B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "6FB8ABA9-CF12-4317-A81A-D3683D7A0315",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

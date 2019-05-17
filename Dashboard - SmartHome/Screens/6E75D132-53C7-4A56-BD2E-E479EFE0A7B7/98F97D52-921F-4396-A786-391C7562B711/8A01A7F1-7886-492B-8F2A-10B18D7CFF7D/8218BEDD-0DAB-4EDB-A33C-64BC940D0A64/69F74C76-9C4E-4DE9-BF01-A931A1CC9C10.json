@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "69F74C76-9C4E-4DE9-BF01-A931A1CC9C10",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "051CB149-A76C-4766-B9FD-AAC2055600E5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "07FF539D-AD5E-46A7-A714-FD6C5748D4FB",
+    "height": 16,
+    "width": 180.1561771561772,
+    "x": 0,
+    "y": 26
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "#2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EC347620-FD11-476E-8089-71A188038276",
+      "overrideName": "EB581322-D8C8-4427-AE6F-14A7BB37AD8D_stringValue",
+      "value": "Studio"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7F30CD40-38E6-42A2-8B03-0D3AEC324D2C",
+      "overrideName": "B6829D74-4E09-4B6B-9DDE-B2C0B371FF60_symbolID",
+      "value": "2947024C-98E1-47B9-975D-8D37F9569B02"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3DD134D6-6E0C-4AD3-8FF6-243061D6264C",
+      "overrideName": "3BF90175-902D-4BDC-9523-698CACDF6A50_stringValue",
+      "value": "22%"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A7DA29D7-5ED5-49D9-9B92-F548338A8816",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "449E1231-DB18-42EC-91BE-7A1FF85037C9",
+  "verticalSpacing": 0
+}

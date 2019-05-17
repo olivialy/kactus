@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "FA38E223-CBA6-4886-8BAA-2A9CF57B2AFE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CE93328D-787E-4361-9F99-6C107DB35D30",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "716DCE82-B809-4E4E-8C65-CB827128B891",
+    "height": 44,
+    "width": 1103,
+    "x": 19,
+    "y": 13
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "#1",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FE5290C3-579E-4D47-B36E-3091C6D6CBF5",
+      "overrideName": "0582F03B-3672-43BA-A057-271DBB3195B7_symbolID",
+      "value": "9F7D3926-61DF-4FB8-8953-D5A427D75ACC"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AFA7DB94-3A31-4C95-924C-5BD3643AE2AD",
+      "overrideName": "0582F03B-3672-43BA-A057-271DBB3195B7/76ABB078-600B-4ACC-A7AB-3136D8E4BEE1_symbolID",
+      "value": "2947024C-98E1-47B9-975D-8D37F9569B02"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "31299190-2E28-4BA6-9639-F5EB9008B39A",
+      "overrideName": "30B06D72-2CB4-4FEC-A873-2126D09F2757_stringValue",
+      "value": "The backyard sensor detected some activity."
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5BCC4E76-06AD-4499-BF28-31D4913987CB",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "3A9C901A-7C5C-4A04-950C-43AEDC1A80FD",
+  "verticalSpacing": 0
+}

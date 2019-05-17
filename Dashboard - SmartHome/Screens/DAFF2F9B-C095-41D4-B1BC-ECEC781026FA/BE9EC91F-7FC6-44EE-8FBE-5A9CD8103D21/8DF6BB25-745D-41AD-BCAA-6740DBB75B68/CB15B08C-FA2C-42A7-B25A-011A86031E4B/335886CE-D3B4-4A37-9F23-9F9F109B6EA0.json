@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "335886CE-D3B4-4A37-9F23-9F9F109B6EA0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2551C66A-81A9-48E7-B332-4FFB8003290A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FF11A651-A6FE-4513-B75F-78851B3CFD25",
+    "height": 59,
+    "width": 299,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Name",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1B961A1F-103B-40B8-BD73-347E467685EB",
+      "overrideName": "54772D25-9593-43A6-8296-F7FB9872899D_stringValue",
+      "value": "MAC Address"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0153573D-F727-4C08-88E2-0436DDD7DDB9",
+      "overrideName": "A059FE86-2EA6-41F0-8EF3-6052E1A6EFCD/089A4410-6EF8-42AC-9DE2-A0542BB3C978/E47CDE4C-9AA8-4F5F-AB20-32FE871EF0F4_stringValue",
+      "value": "1939u8r482391"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F8A0640F-5BCF-4A3A-9B15-30F849504FDF",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A3E3CADA-2A95-4843-8464-1CE06A80463F",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "D6726F7C-0A00-4D24-A414-284C1CDE40E8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DF12CE1F-7599-4513-AE56-9D629948162B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "349B8E85-DBFC-4BEF-9957-7A202E16DCF3",
+    "height": 16,
+    "width": 288,
+    "x": 0,
+    "y": 29
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Switch",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E142F15D-36A0-4935-84EE-24D819C519DF",
+      "overrideName": "417E617D-17EC-47D8-80F0-38F927E22042_stringValue",
+      "value": "Save all your information on a cloud service.     "
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "11A99B98-5D53-48E4-B5C1-1095C9E31A0C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "02D2918B-C085-4FF4-B8D4-A8DEB01C6109",
+  "verticalSpacing": 0
+}

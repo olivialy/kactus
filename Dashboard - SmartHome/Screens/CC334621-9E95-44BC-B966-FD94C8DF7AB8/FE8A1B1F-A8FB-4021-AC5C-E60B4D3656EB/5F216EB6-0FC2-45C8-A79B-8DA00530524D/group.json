@@ -1,0 +1,60 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "5F216EB6-0FC2-45C8-A79B-8DA00530524D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "95F1A8EE-43DA-4994-AE87-24E2DB18FBA6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1954B32A-0F68-43FA-8384-A30FD9AE3A6B",
+    "height": 16,
+    "width": 181,
+    "x": 63,
+    "y": 722
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "3F82C3D8-4D26-47CA-8D7A-19D046A5C92B"
+    },
+    {
+      "class": "text",
+      "id": "44225E3D-F190-4D9B-873F-E32BCB43455A"
+    }
+  ],
+  "name": "Signup",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "76F078A4-0A6D-48AA-9EA6-B843F68630FD",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "2C11A3A3-F707-423C-8AB0-6A5B05D70276",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "43C5DE09-4E5E-40B2-8B1C-7C2DFD189997",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1CB3598A-953C-4F0E-B3E5-ED0EC3F9111E",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "jpg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0C03B9EA-FF82-4F9E-BAD0-51FC0D7DC1A1",
+    "height": 900,
+    "width": 1440,
+    "x": -744,
+    "y": -1074
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "98AAD2BA-8A59-4288-AA16-B0202045711F",
+    "guides": [
+      -195
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "892E8CA6-76D2-44BA-9401-7B146262CAFF"
+    },
+    {
+      "class": "group",
+      "id": "A8EA41EB-32E6-4205-AB49-027367A8A831"
+    },
+    {
+      "class": "group",
+      "id": "8AB79E32-E2BD-4040-8D0B-0EE4F5611233"
+    }
+  ],
+  "name": "#6.1 History - Donnut Chart_",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop HD",
+    "offersLandscapeVariant": 0,
+    "width": 1440
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1E0EFFAC-C27C-4CBF-A388-241EE3C17F08",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "A2457D11-CFB6-454B-A0A3-8E9F2BACC835",
+    "guides": [
+      877
+    ]
+  }
+}

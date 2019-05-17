@@ -1,0 +1,74 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "C620CEBE-9F67-4446-A69F-5D8D1BB890B5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B7264181-07F0-4698-949A-6102783EF988",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "077696CA-D889-49D4-94C2-615DD3E78A0D",
+    "height": 132,
+    "width": 1141,
+    "x": 0,
+    "y": 376
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "#4",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "81FF4254-8831-448B-A619-0174810FF8BA_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "26260A40-7AC5-4AF2-B8CA-E94E27C70C8F_stringValue",
+      "value": "Mario Johnston"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "904ACFC5-C726-4608-87DE-43D8C570ED4C",
+      "overrideName": "DCEC5793-8D01-45F4-88F7-55995242A4B2_stringValue",
+      "value": "**** **** **** 4521"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A37BBF04-C1CB-4F32-8C61-13A2E0F93D32",
+      "overrideName": "12E6FF0A-610B-47A7-8D57-271C66A80A69_symbolID",
+      "value": "D406FD71-2D25-4C38-AA3B-8BC7961CBED8"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "60697BD1-10F4-4481-9C7F-94A9B61B62A1",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "5A748CE2-5CAF-4083-9C22-4E232432C041",
+  "verticalSpacing": 0
+}

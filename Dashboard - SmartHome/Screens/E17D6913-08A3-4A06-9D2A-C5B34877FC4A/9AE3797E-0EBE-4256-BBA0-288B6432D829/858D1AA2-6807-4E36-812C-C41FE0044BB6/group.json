@@ -1,0 +1,79 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "858D1AA2-6807-4E36-812C-C41FE0044BB6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 426,
+    "width": 704,
+    "x": 0,
+    "y": 35
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "2C206FD9-5C62-4953-968B-F67C1D1863FD"
+    },
+    {
+      "class": "group",
+      "id": "6C3E3157-1316-48AE-9E31-FB86F9E3C9BE"
+    },
+    {
+      "class": "group",
+      "id": "EA223B91-FDCE-456B-BC04-865924950910"
+    },
+    {
+      "class": "text",
+      "id": "BFCF14DF-3253-41F3-8990-0B6A36301886"
+    },
+    {
+      "class": "text",
+      "id": "C96EA807-A705-49B5-B3C3-0838D8E4A4E6"
+    },
+    {
+      "class": "group",
+      "id": "DE87E2EE-18FB-4FEE-8621-CCCC02127DB2"
+    }
+  ],
+  "name": "Camera",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

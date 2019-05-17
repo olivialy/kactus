@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "66775DBE-00D7-4C8A-9E95-97950D9B4FB2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C1B6DDF5-FA4B-4130-9250-82F25D944E63",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "771652BA-6C27-4B55-A965-F8A8BB018BEF",
+    "height": 24,
+    "width": 24,
+    "x": 88,
+    "y": 44
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Icons White / Notifications Icon Copy 18",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4980FBE0-8ED1-4DB1-AF52-3764766244CC",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "6C0E38C7-BAC4-47BF-B36A-10863B76FEDB",
+  "verticalSpacing": 0
+}

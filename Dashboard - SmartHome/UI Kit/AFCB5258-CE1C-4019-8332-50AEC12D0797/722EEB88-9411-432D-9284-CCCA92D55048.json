@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "722EEB88-9411-432D-9284-CCCA92D55048",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "463F5136-B066-44FF-9136-6C8C6FF30C70",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2972B10D-5D11-4308-91D0-9C967541531B",
+    "height": 48,
+    "width": 48,
+    "x": 235,
+    "y": 1700
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Molecules / Charts / Donnut / #1 Copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2DD4C1BC-3CC8-4E52-9DB1-F86FDD179D70",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "CE8A4EE0-66D9-4E9C-965C-179F507D9A4F",
+  "verticalSpacing": 0
+}

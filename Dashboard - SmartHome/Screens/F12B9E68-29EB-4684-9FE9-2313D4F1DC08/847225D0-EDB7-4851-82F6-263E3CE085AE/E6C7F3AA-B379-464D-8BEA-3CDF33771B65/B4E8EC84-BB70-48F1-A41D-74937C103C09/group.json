@@ -1,0 +1,82 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "B4E8EC84-BB70-48F1-A41D-74937C103C09",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3C322695-4FA2-40D9-9FF8-610E7BAC0E78",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3CF34403-625C-4732-A88F-2E7A3B6CF3DB",
+    "height": 32,
+    "width": 130,
+    "x": 450,
+    "y": 4
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "AD052B88-ABCA-4FF6-AC61-9F3D19EF18C8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6989FF6E-B021-4DCC-9B31-5FFA149DDEF0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "15916356-4D84-450F-AC0C-0BF5872F7887"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "01411726-69AF-4440-B858-ABB3F2B45EC9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "62EF9EF8-5B1E-4827-B7F2-D06EBEEAE207"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "56AEFC48-93DF-4432-82CC-5BD3C687576D"
+    }
+  ],
+  "name": "Cameras",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5074B61D-B470-4852-ACDA-E2B4C1CB5F8D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

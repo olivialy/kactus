@@ -1,0 +1,80 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "BBE4FB7D-87B2-48DA-BA30-190025FCC0DF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DD4BE51E-F057-4AD7-BE41-6DC8E4C6BE77",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C710ED41-7278-48C0-B1E8-D779FFF587EA",
+    "height": 132,
+    "width": 1141,
+    "x": 0,
+    "y": 112
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "#2",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "DC2831A0-8F91-486A-ACC7-6145AE005255_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "26260A40-7AC5-4AF2-B8CA-E94E27C70C8F_stringValue",
+      "value": "Ophelia Simpson"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2434D7F0-BED1-4F4F-AEEF-3710902EBCEE",
+      "overrideName": "DCEC5793-8D01-45F4-88F7-55995242A4B2_stringValue",
+      "value": "**** **** **** 2423"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FE8AAA75-A9BD-4BBC-9D84-8DBD73EA7CEF",
+      "overrideName": "363AA436-6F52-4177-B6E2-753EF0998BBC_stringValue",
+      "value": "Expires 04/22"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1FE52C1D-8C8F-41AF-95D1-7607FBA4D758",
+      "overrideName": "12E6FF0A-610B-47A7-8D57-271C66A80A69_symbolID",
+      "value": "D406FD71-2D25-4C38-AA3B-8BC7961CBED8"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5C8FA1CA-C8C7-40AC-A694-00489FD09986",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "5A748CE2-5CAF-4083-9C22-4E232432C041",
+  "verticalSpacing": 0
+}

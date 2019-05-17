@@ -1,0 +1,82 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "45A0C979-CAC9-4BC4-A699-7E7674E80908",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B627B230-EFDB-4F1F-A109-AECF25318B04",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "01AD0A2B-6C2D-4F0E-981C-F71DBC382FB4",
+    "height": 59,
+    "width": 428,
+    "x": 273,
+    "y": 365
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Select Device",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1B961A1F-103B-40B8-BD73-347E467685EB",
+      "overrideName": "54772D25-9593-43A6-8296-F7FB9872899D_stringValue",
+      "value": "Select Device"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0BB5CF7F-D991-4427-8164-04F897D1BB42",
+      "overrideName": "A059FE86-2EA6-41F0-8EF3-6052E1A6EFCD_symbolID",
+      "value": "F3DBBB42-C164-44FB-A37F-A8ACCA5B546D"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "77BF2A67-3EAC-4874-BE10-6892A287DCC0",
+      "overrideName": "A059FE86-2EA6-41F0-8EF3-6052E1A6EFCD/80FF8A83-CA01-4415-96F7-5A2BAADC7F38_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8E7D981E-89EC-456C-AB3A-345249257EE1",
+      "overrideName": "A059FE86-2EA6-41F0-8EF3-6052E1A6EFCD/FA08C2B4-FFE8-401F-A892-4D88FB12263E_symbolID",
+      "value": "762F7094-6123-4EF5-9924-CF2DD8CBCE90"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D9D3A52E-0EF1-4406-8F13-1EFD5EE4B24B",
+      "overrideName": "A059FE86-2EA6-41F0-8EF3-6052E1A6EFCD/FA08C2B4-FFE8-401F-A892-4D88FB12263E/1C643560-4BFE-4265-93A3-10869F6C6811_stringValue",
+      "value": "Select"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3E5EBC8A-9CAB-4AE0-987C-08417901250E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A3E3CADA-2A95-4843-8464-1CE06A80463F",
+  "verticalSpacing": 0
+}

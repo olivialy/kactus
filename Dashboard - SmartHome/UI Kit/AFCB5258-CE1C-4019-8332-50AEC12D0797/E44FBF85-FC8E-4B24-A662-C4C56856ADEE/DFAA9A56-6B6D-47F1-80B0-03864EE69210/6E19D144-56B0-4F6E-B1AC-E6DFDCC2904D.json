@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "6E19D144-56B0-4F6E-B1AC-E6DFDCC2904D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D31CCACE-1DB8-496D-8D7A-4CE02A3E90E6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F84CF59D-947C-4A72-B871-7D6FFF00C0AC",
+    "height": 24,
+    "width": 24,
+    "x": 704,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Atoms / Icon/System/ Chart_Bar Copy 5",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "556650D6-D8FB-478C-80B1-0D10EFABAED6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B4155165-50D7-4A5F-A44A-D8BEAD0CBD50",
+  "verticalSpacing": 0
+}

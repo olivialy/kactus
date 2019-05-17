@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "FC94A8EB-178A-4AFE-9CA5-8E923B9D180E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BDF0DEFB-2AC7-4D03-ADF0-6D87A0603548",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4C9C70D8-8586-4A73-B2A3-819248736E7C",
+    "height": 67.35238095238094,
+    "width": 11.88571428571429,
+    "x": 27.73333333333333,
+    "y": 21.79047619047619
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Molecules / Charts / Bar v1",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "94925B0A-F138-4EAF-B569-5CA82911235D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "FA36CA63-F91F-46EF-A630-C7DC2E15F66B",
+  "verticalSpacing": 0
+}

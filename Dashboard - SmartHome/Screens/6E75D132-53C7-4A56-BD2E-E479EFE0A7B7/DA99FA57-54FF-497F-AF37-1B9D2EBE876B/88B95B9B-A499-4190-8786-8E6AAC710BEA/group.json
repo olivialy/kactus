@@ -1,0 +1,66 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "88B95B9B-A499-4190-8786-8E6AAC710BEA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6AD6CE58-66FD-4022-B5A0-9BD7F918D363",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AFDC8C6C-1E4B-4C5A-95AD-9E9362C15675",
+    "height": 99,
+    "width": 101,
+    "x": 24,
+    "y": 36
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "0CE4B6CA-4516-419A-A9CB-C748D776CF0D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "58368354-7517-48A4-BCF9-C8FB1D94A70D"
+    }
+  ],
+  "name": "Add device",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7BE80154-9130-4AD8-9BAD-BBD30EAA6BCC",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

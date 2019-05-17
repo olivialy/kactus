@@ -1,0 +1,77 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "CF162012-32DB-4878-BAD8-47C19F4BA91B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8EDB1581-55A6-4DF9-B756-F490143503E2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "2C9C3A52-ACFC-4EF9-ADFC-380B98425306",
+    "height": 77,
+    "width": 74,
+    "x": 13,
+    "y": 12
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "A757D239-19AD-4C32-AD93-B2A73D70B183"
+    }
+  ],
+  "name": "Icon/Two-color/Sensors",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "91E4D2AD-1CDD-436D-8601-E849EE3EC732",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 77,
+            "enabled": 1,
+            "modelID": "constraint_e84876db-d2a9-4a0c-b82e-be89bb0d716d",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 74
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_870d9d52-ff96-4bb2-acd9-b376294d88cf",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

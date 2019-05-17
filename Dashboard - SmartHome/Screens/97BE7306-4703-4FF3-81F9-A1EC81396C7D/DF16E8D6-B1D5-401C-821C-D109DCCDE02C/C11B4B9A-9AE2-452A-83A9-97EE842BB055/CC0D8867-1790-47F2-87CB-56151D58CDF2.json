@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "CC0D8867-1790-47F2-87CB-56151D58CDF2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "39F7040D-054B-4532-9B70-0D873E915DC6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "40C71509-0E00-45E1-96E6-EFB631CAE437",
+    "height": 44,
+    "width": 1103,
+    "x": 19,
+    "y": 115
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "#3",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "70E6B44E-CBDD-40B7-8916-0F90E7455431",
+      "overrideName": "0582F03B-3672-43BA-A057-271DBB3195B7_symbolID",
+      "value": "9F7D3926-61DF-4FB8-8953-D5A427D75ACC"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "381AA846-4FB4-44CB-B952-1AAB95C25712",
+      "overrideName": "30B06D72-2CB4-4FEC-A873-2126D09F2757_stringValue",
+      "value": "The camera took three pictures of activities detected in the backyard."
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E48DF63E-35B7-4158-8DE5-F9E40B6DB5BB",
+      "overrideName": "0582F03B-3672-43BA-A057-271DBB3195B7/76ABB078-600B-4ACC-A7AB-3136D8E4BEE1_symbolID",
+      "value": "2947024C-98E1-47B9-975D-8D37F9569B02"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "45FAE939-C002-4A5F-BE2D-5E98AAE6EE3A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "3A9C901A-7C5C-4A04-950C-43AEDC1A80FD",
+  "verticalSpacing": 0
+}

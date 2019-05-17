@@ -1,0 +1,86 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "0447E461-F9B0-4C93-9013-75B11E3A0F2A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 68,
+    "width": 57,
+    "x": 22,
+    "y": 16
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "7CB2AAC5-170A-4D66-8A98-C22F171A6E60"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0AD788F5-B91A-49B8-9A42-DB8A0B507665"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F6043D8F-CB4B-44D7-8386-7509EB3C9D67"
+    },
+    {
+      "class": "shapePath",
+      "id": "083E6530-58DE-4855-9C65-FCBBEBEA9A73"
+    }
+  ],
+  "name": "002-webcam-1",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 67.17757,
+            "enabled": 1,
+            "modelID": "constraint_000713d4-23d4-420a-8769-2fe72bab6aa2",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 56.15625
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_23931581-6133-4639-843c-676c873c1314",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

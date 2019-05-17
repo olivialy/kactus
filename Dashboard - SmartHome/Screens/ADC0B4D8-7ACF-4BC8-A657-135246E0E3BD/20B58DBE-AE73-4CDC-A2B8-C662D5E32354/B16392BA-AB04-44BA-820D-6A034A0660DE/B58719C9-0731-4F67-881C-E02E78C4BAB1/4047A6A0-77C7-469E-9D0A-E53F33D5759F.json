@@ -1,0 +1,82 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "4047A6A0-77C7-469E-9D0A-E53F33D5759F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F7E24BB6-CA6B-4FC8-8059-2D58232D9315",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "208F8C37-2DCE-409F-AA2F-05DEE4D19002",
+    "height": 59,
+    "width": 327,
+    "x": 3,
+    "y": 162
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "#3",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E29AE026-6A87-4C51-806E-0AAAA5E249E3",
+      "overrideName": "A059FE86-2EA6-41F0-8EF3-6052E1A6EFCD/24AB469E-87D9-46CF-B625-B85B23AD7F3B_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7DC216C4-23D1-40AB-AC35-E94BB9FBCE35",
+      "overrideName": "A059FE86-2EA6-41F0-8EF3-6052E1A6EFCD/8BBC8B18-0061-4CAB-AA94-505843D8E325_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BD0E38B2-4252-4266-B313-368FD3E24758",
+      "overrideName": "A059FE86-2EA6-41F0-8EF3-6052E1A6EFCD/089A4410-6EF8-42AC-9DE2-A0542BB3C978_symbolID",
+      "value": "762F7094-6123-4EF5-9924-CF2DD8CBCE90"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1B961A1F-103B-40B8-BD73-347E467685EB",
+      "overrideName": "54772D25-9593-43A6-8296-F7FB9872899D_stringValue",
+      "value": "Phone Number"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F8EF71A5-4950-44F0-BFE8-4CD8AECA9438",
+      "overrideName": "A059FE86-2EA6-41F0-8EF3-6052E1A6EFCD/089A4410-6EF8-42AC-9DE2-A0542BB3C978/1C643560-4BFE-4265-93A3-10869F6C6811_stringValue",
+      "value": "992-695-1715"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3442EAEB-DE24-4571-8513-3B7F0AF219C9",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A3E3CADA-2A95-4843-8464-1CE06A80463F",
+  "verticalSpacing": 0
+}

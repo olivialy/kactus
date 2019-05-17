@@ -1,0 +1,77 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "840BDFCC-1905-4697-8146-2E090B0C5E5C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "460B835C-740C-4D59-B0B4-44D9E22F94E4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "62E709FE-874D-4DAB-BD23-F8F420BAB285",
+    "height": 68,
+    "width": 57,
+    "x": 22,
+    "y": 16
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "65BAC208-7099-4328-8AA2-5BD2809F8DFF"
+    }
+  ],
+  "name": "002-webcam-1 copy",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "31818A98-9D91-4BB2-A503-92656AE46B66",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 67.17757,
+            "enabled": 1,
+            "modelID": "constraint_000713d4-23d4-420a-8769-2fe72bab6aa2",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 56.15625
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_23931581-6133-4639-843c-676c873c1314",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

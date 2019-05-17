@@ -1,0 +1,76 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "9C1ECB35-58BF-4942-8873-856014D8238F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "64CED919-08D2-4A69-8406-3F8573897604",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BDDFB411-1E9A-4C7F-AAB5-ED67DF2E0B06",
+    "height": 386,
+    "width": 1141,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Card",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D367B6B1-8E58-4CB6-B32B-5768B792E73F",
+      "overrideName": "B9AAC29F-F3D9-435B-9DD3-50C187DE27D7/D349E23D-E774-476A-A075-1226239CC3F2_stringValue",
+      "value": "Energy Consumption"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A1902C5A-F4C8-4493-9C83-DB9C6EEFFF68",
+      "overrideName": "B9AAC29F-F3D9-435B-9DD3-50C187DE27D7/1C887293-8007-4AE0-BCC0-18DBFF23733B_stringValue",
+      "value": "Energy Consumption"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A3FDC98F-1FF5-4283-B559-B044DC082C94",
+      "overrideName": "B9AAC29F-F3D9-435B-9DD3-50C187DE27D7/ECD61EBC-9CD0-46CC-A4B2-F4CE967A029C_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "78A6CCED-867D-4F6E-AC53-9ECFC0D094E7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "6FB8ABA9-CF12-4317-A81A-D3683D7A0315",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

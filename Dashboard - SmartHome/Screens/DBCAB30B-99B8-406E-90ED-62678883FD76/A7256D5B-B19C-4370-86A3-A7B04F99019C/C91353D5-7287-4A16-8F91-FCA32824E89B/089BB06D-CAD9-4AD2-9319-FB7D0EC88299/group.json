@@ -1,0 +1,100 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "089BB06D-CAD9-4AD2-9319-FB7D0EC88299",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F9E2C7FA-0089-4D98-A7F0-39E4E7A611AD",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F8E50513-6C36-40BC-A72F-F578B25BCE7A",
+    "height": 581,
+    "width": 1105,
+    "x": 36,
+    "y": 89
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "C3659795-8400-434A-99AC-25CEEE42B2EB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CAA09FD2-17FD-4DCF-90F7-E60F9BBBF689"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "52BDBE11-E065-448D-BF12-C75FDC005EE1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "32E98534-E398-4FF1-9342-0A03BA09D846"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2B242EC3-3C16-488B-8945-F52EED34040E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A998563C-FCA8-4C91-99C1-EE8F50005679"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "524244CB-5AC9-4398-AC04-90357FF95B4B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "446C639B-74A1-442A-B917-658C27269F59"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FBC516E8-78AE-4FBC-8A0E-ACC1647AD815"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8963A5AC-A91C-4FC1-9B4B-89F49CBE5BA7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "050E6BBD-53CF-4C85-B13E-F25C8B529809"
+    },
+    {
+      "class": "text",
+      "id": "3878DBBC-1751-44E2-85CD-6B26082F4992"
+    }
+  ],
+  "name": "Time",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "27730A0C-A130-4F02-B76D-4D3CDA5CD0EE",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "FBFBD9B3-C69B-400B-BE31-3BB204518943",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D6FB6919-5CB7-4CF0-AA8F-FF1D30113EED",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "60883FAB-B63E-4B9A-AAB6-BF8239B41C1E",
+    "height": 5,
+    "width": 129,
+    "x": 505,
+    "y": 207
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Slider control",
+  "nameIsFixed": true,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "794DF115-93CD-40EC-85F9-C32228FACEF5",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "46F894CD-8A90-47D6-A0AC-A6A8E728F6D1",
+  "verticalSpacing": 0
+}

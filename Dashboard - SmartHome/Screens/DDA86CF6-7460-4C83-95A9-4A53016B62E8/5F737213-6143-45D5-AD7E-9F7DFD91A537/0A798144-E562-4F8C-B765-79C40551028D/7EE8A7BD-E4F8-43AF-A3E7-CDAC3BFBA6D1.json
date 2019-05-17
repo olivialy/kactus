@@ -1,0 +1,76 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "7EE8A7BD-E4F8-43AF-A3E7-CDAC3BFBA6D1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "471323E4-0294-4A8C-AAE6-D4A18E5278EC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5BA0AEC5-0998-4CCF-84AF-DB0680841A7F",
+    "height": 113,
+    "width": 1141,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "#1",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "23A7061A-639A-4A13-9809-893FCD4F2425",
+      "overrideName": "56494B64-04FA-4E78-9EC0-6AB1ED37B0DA_stringValue",
+      "value": "Hall"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A8B8C278-C815-49B9-9D82-858A60E544FA",
+      "overrideName": "44DA1533-F4D4-4C44-853F-57F780B67344_stringValue",
+      "value": "Door Switch"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1FA958D6-310E-46B9-B963-8DDF9D1D8EC0",
+      "overrideName": "DB44D91E-7808-45F7-AF67-F2591AB6BEA4_symbolID",
+      "value": "C1C72312-754A-4A2A-B97C-1D1DA7E2CC6D"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "24E32250-141C-46B0-8A71-C4A6B45553A9",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "52718BF8-AA5F-4661-A97C-16F2A43ED5EB",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

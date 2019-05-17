@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "AE7989D8-5696-4618-9FD2-962C49BE3DA7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1E3E9644-BF3B-48B2-B79F-C9E881DE7091",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7775049B-E332-45C2-8584-DDA22A9F6B50",
+    "height": 16,
+    "width": 288,
+    "x": 0,
+    "y": 29
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Switch",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E142F15D-36A0-4935-84EE-24D819C519DF",
+      "overrideName": "417E617D-17EC-47D8-80F0-38F927E22042_stringValue",
+      "value": "Install the latests update automatically.     "
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "ADC49040-7A89-4EA5-819B-A1617B576F50",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "02D2918B-C085-4FF4-B8D4-A8DEB01C6109",
+  "verticalSpacing": 0
+}

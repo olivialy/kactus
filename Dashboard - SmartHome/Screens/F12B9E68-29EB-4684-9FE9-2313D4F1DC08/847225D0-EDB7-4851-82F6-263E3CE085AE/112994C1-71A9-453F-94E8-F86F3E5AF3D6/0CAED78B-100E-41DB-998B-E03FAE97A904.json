@@ -1,0 +1,76 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "0CAED78B-100E-41DB-998B-E03FAE97A904",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BCCE5250-036B-4E15-B30F-DCB40EA8F99A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "421A9E0D-D724-4A92-B324-A6CA3717FC31",
+    "height": 111,
+    "width": 228,
+    "x": 684,
+    "y": 37
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "#4",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C572FC4C-728F-4ED7-BC7C-06306938DD5C",
+      "overrideName": "B151A566-FA6F-4CB4-86EA-20E725637117_stringValue",
+      "value": "WATER"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D5916BDF-8C78-4523-82D4-78635F29A5D0",
+      "overrideName": "56E53998-F193-409F-A921-963B9DE32B8F_stringValue",
+      "value": "494"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FC61EE1F-8ADF-420A-A2B5-B7746F88354D",
+      "overrideName": "376DE5C6-9A89-4562-9D49-D1749A6A01DE_stringValue",
+      "value": "CF"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "37A8D74A-6E07-48D4-AB06-C23D5E2DA0C8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F2982BD4-551E-47C9-9317-8E64179EF057",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

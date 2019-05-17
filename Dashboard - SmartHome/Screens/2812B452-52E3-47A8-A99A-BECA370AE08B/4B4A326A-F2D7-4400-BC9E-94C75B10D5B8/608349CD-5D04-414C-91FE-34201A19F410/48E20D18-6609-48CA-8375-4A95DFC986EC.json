@@ -1,0 +1,74 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "48E20D18-6609-48CA-8375-4A95DFC986EC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "015D0B8C-752D-4FDE-82D2-9ECB30229378",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "481730CE-9D08-47CC-BA62-C2CD03B291D4",
+    "height": 132,
+    "width": 1141,
+    "x": 0,
+    "y": 640
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "#6",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "81FF4254-8831-448B-A619-0174810FF8BA_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "26260A40-7AC5-4AF2-B8CA-E94E27C70C8F_stringValue",
+      "value": "Addie Davis"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4C6CFA70-4724-4119-8FC4-070708E0FD48",
+      "overrideName": "DCEC5793-8D01-45F4-88F7-55995242A4B2_stringValue",
+      "value": "**** **** **** 1267"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B2E02DB1-2AE1-4110-86D4-446AE6136404",
+      "overrideName": "12E6FF0A-610B-47A7-8D57-271C66A80A69_symbolID",
+      "value": "ADE460DE-7F74-4CC3-BAA6-93702B82635A"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B7DAF595-7883-4411-A6D6-CA89A8B7901A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "5A748CE2-5CAF-4083-9C22-4E232432C041",
+  "verticalSpacing": 0
+}

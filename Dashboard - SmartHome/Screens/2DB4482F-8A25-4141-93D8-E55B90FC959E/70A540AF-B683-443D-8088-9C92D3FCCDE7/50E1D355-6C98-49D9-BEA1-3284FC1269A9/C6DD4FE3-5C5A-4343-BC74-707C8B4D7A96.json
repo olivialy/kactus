@@ -1,0 +1,73 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "C6DD4FE3-5C5A-4343-BC74-707C8B4D7A96",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 113,
+    "width": 1141,
+    "x": 0,
+    "y": 565
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "#6",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "92EFA492-2276-43F7-A4F1-C1346DCAE16B",
+      "overrideName": "56494B64-04FA-4E78-9EC0-6AB1ED37B0DA_stringValue",
+      "value": "Kitchen"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2794ACAD-58FD-43FB-B117-F118B6768EF5",
+      "overrideName": "44DA1533-F4D4-4C44-853F-57F780B67344_stringValue",
+      "value": "Camera"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "58753D63-8455-475B-AF0E-CDCD130649D7",
+      "overrideName": "DB44D91E-7808-45F7-AF67-F2591AB6BEA4_symbolID",
+      "value": "FB87BCE8-E6AE-4B01-ABE8-AFA79BFE797D"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "52718BF8-AA5F-4661-A97C-16F2A43ED5EB",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

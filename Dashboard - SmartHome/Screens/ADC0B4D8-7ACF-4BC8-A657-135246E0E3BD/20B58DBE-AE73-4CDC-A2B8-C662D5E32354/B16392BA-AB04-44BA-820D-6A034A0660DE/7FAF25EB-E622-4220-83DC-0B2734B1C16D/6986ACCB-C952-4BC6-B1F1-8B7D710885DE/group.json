@@ -1,0 +1,60 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "6986ACCB-C952-4BC6-B1F1-8B7D710885DE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D312333C-C9B0-4C35-88A0-E0ECD6823461",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CF1737C5-9114-4B16-9865-72AA2FACA8AF",
+    "height": 45,
+    "width": 288,
+    "x": 0,
+    "y": 243
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "AE7989D8-5696-4618-9FD2-962C49BE3DA7"
+    },
+    {
+      "class": "text",
+      "id": "9F9ED2C9-BC52-4A89-8E95-8EF3FCB25012"
+    }
+  ],
+  "name": "Phone Notifications Copy 2",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2E4C15C9-7DCF-4A5C-B13E-698F01A249D7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

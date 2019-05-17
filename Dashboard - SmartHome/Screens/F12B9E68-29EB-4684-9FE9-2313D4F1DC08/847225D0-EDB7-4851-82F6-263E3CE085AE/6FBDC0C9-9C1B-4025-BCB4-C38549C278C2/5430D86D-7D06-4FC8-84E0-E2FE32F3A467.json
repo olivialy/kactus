@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "5430D86D-7D06-4FC8-84E0-E2FE32F3A467",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "032FC7E2-2458-4A95-BE70-E81B00A32C50",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5C27CB8B-BFAC-442A-84B6-09E760B697B4",
+    "height": 208,
+    "width": 427,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Camera",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D367B6B1-8E58-4CB6-B32B-5768B792E73F",
+      "overrideName": "B9AAC29F-F3D9-435B-9DD3-50C187DE27D7/D349E23D-E774-476A-A075-1226239CC3F2_stringValue",
+      "value": "Consumption by room"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9F153CE2-4AA9-450D-B1A7-E6E28A7B1988",
+      "overrideName": "B9AAC29F-F3D9-435B-9DD3-50C187DE27D7/1C887293-8007-4AE0-BCC0-18DBFF23733B_stringValue",
+      "value": "Consumption by room"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E1D5421C-CF97-43A4-833B-682992F49A80",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "6FB8ABA9-CF12-4317-A81A-D3683D7A0315",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

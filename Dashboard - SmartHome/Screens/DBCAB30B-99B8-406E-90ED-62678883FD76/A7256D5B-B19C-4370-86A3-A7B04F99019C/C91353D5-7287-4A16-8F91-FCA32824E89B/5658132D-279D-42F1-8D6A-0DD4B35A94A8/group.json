@@ -1,0 +1,100 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "5658132D-279D-42F1-8D6A-0DD4B35A94A8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4CB1A9EB-A11D-4763-9B66-5D1B43079BEB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BE7D5F7B-CE4A-416D-AE5E-048F16BE6E66",
+    "height": 587,
+    "width": 1051,
+    "x": 90,
+    "y": 109
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "3472ADF8-6703-4ACD-B0F3-4771EAC89190"
+    },
+    {
+      "class": "shapePath",
+      "id": "E4A4C8C0-7F1F-40EE-83C4-8A535D60C848"
+    },
+    {
+      "class": "shapePath",
+      "id": "C2ECBF04-6FAA-42C1-AB40-61627DFD5838"
+    },
+    {
+      "class": "shapePath",
+      "id": "56B6C01A-2A58-4A84-89CA-D2155ACEFB18"
+    },
+    {
+      "class": "shapePath",
+      "id": "8FC7BF57-DB89-4E7C-BA23-A955799735BA"
+    },
+    {
+      "class": "shapePath",
+      "id": "61D926A0-8C14-48F9-A230-3E2B37828CA1"
+    },
+    {
+      "class": "shapePath",
+      "id": "11172E95-5930-4D99-9B87-0D59F5216C48"
+    },
+    {
+      "class": "shapePath",
+      "id": "1AB793D3-E19F-4E03-A67C-BDA8009305DA"
+    },
+    {
+      "class": "shapePath",
+      "id": "CFD79919-0428-48C5-9D29-4D230FFAC83E"
+    },
+    {
+      "class": "shapePath",
+      "id": "AAB2849E-134F-43C2-83EB-8A412ABFCCA0"
+    },
+    {
+      "class": "shapePath",
+      "id": "2036E0F8-96ED-48A0-8216-022865F785CD"
+    },
+    {
+      "class": "shapePath",
+      "id": "7584962B-4001-439B-944E-2574E68F40D1"
+    }
+  ],
+  "name": "Dashed",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "28F046E3-1096-4A29-8496-4A7C1AD80824",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

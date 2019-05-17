@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "11D6BAA5-C34A-4D8B-A0B7-6FDCEE3FE0C1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7C3BC68B-99C7-42FF-9DCD-06B23E522DC2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DEB15C64-845D-4275-ABFE-BE9A47380EE3",
+    "height": 33,
+    "width": 327,
+    "x": 2,
+    "y": 423
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Button",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4BA127B9-BE18-4830-A915-8CCAE70603FB",
+      "overrideName": "03906950-07EF-4320-BA15-8204A3A78A58/36FDFA1E-29C3-4321-A8E9-94E1DD224603_stringValue",
+      "value": "Send confirmation mail"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8D57B39F-F1D9-4205-938E-0873DC4636AE",
+      "overrideName": "03906950-07EF-4320-BA15-8204A3A78A58/2359801F-5929-4626-8B26-0B41FA553390_stringValue",
+      "value": "Recover password"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9D0FE1C2-230B-48C3-A064-2757F4B33AF0",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "E83012BD-29E2-4E0F-998D-5C02C20EA937",
+  "verticalSpacing": 0
+}

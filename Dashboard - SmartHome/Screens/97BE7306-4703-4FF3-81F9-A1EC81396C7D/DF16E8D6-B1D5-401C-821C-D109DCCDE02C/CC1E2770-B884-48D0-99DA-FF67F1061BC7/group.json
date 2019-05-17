@@ -1,0 +1,92 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "CC1E2770-B884-48D0-99DA-FF67F1061BC7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "587D6DCB-143F-4012-B65B-8433B24E58BE",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "36BCFB4B-7B9A-40EF-8371-B38BA7565D60",
+    "height": 331,
+    "width": 1141,
+    "x": 0,
+    "y": 71
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "A243653D-EFD6-4832-9901-CE20326E6F70"
+    },
+    {
+      "class": "group",
+      "id": "2B3D607A-D39D-437E-AA96-43C3D30CB163"
+    },
+    {
+      "class": "group",
+      "id": "4AF5D35D-EB1D-4222-B4C0-202A294DA098"
+    },
+    {
+      "class": "group",
+      "id": "42C41B04-D839-4B83-AAD7-C0CA6B823248"
+    },
+    {
+      "class": "group",
+      "id": "BE499A1B-EE91-403D-A924-705A4E8B9B1C"
+    },
+    {
+      "class": "group",
+      "id": "4CF24FC2-D957-4AE7-85C0-5B165CAB3298"
+    },
+    {
+      "class": "group",
+      "id": "DDD8E01A-9AA8-4DBE-8AAE-1C39E14D0234"
+    },
+    {
+      "class": "group",
+      "id": "784F0754-FDA6-451C-B9CD-C218C897AB5E"
+    },
+    {
+      "class": "group",
+      "id": "8549CA70-A8E3-48B5-8E2C-BEB5E5ACCE78"
+    },
+    {
+      "class": "group",
+      "id": "ADA7FF92-023C-47A2-B277-42A545A830CA"
+    }
+  ],
+  "name": "Chart",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "17AFF8F5-B1EF-4EB6-810A-C8C10C4B38DC",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

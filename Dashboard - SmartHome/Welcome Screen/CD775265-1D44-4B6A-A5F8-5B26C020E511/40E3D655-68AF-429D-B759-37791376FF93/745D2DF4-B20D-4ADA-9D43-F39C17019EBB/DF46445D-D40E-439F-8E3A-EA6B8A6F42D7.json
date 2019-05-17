@@ -1,0 +1,80 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "DF46445D-D40E-439F-8E3A-EA6B8A6F42D7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "64A232BD-CC30-4CA0-BCD0-BC3F2DEFCA53",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0A9FEE4F-A0E1-4E85-8118-DB1A627B8B11",
+    "height": 218,
+    "width": 219,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "name": "Card",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D367B6B1-8E58-4CB6-B32B-5768B792E73F",
+      "overrideName": "05DAF208-14C0-4AD6-8F7B-06AED9951CB5/D349E23D-E774-476A-A075-1226239CC3F2_stringValue",
+      "value": "Devices Limit"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5F0F9D0E-F03E-44F5-87C9-C25E178322E2",
+      "overrideName": "05DAF208-14C0-4AD6-8F7B-06AED9951CB5/1C887293-8007-4AE0-BCC0-18DBFF23733B_stringValue",
+      "value": "Device Limit"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1.049999952316284,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "AA9B6B1B-663E-4FD5-AA6D-849C7ADAD262",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10.49999952316284,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "B0833D85-86F8-4F2B-AD23-6D021788D939",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "96DEE02A-B12B-4816-81C0-ED67637BB66A",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

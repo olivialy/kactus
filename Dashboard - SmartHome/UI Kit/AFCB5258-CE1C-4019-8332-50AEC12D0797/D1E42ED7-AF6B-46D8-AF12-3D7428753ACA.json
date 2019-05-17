@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "D1E42ED7-AF6B-46D8-AF12-3D7428753ACA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4A9EEA17-9A1A-45DC-A7DE-5B58DF276342",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FE93A003-C97F-4252-9D0F-76AA32F21C18",
+    "height": 48,
+    "width": 48,
+    "x": 235,
+    "y": 1807
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Organisms / Charts / _/ Progress / Donnut - 12% Copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0979A1EF-9F53-4588-9D91-DE9BA30F4675",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "12E8207F-2D7D-4634-B158-2507236739E1",
+  "verticalSpacing": 0
+}

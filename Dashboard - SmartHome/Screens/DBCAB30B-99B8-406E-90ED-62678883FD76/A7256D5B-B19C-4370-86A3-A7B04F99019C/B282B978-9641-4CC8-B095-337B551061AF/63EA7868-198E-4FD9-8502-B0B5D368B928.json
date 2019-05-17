@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "63EA7868-198E-4FD9-8502-B0B5D368B928",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C8116406-8678-4D50-811F-EE2525A9B587",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "57FAA9C7-2CB1-4F38-B7D8-7A9BA8465D4C",
+    "height": 175,
+    "width": 197,
+    "x": 686,
+    "y": 259
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "#2",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CC34EC97-AB3D-414E-A3BC-ADD61DE0F5CB",
+      "overrideName": "CDF68952-200F-431D-AE7E-B86139671FA5_stringValue",
+      "value": "Doors"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3583A50A-73E0-4F71-B548-3DFF96D8DE90",
+      "overrideName": "7DC45FAE-69E8-49BA-BFA0-7038BB6CFC11_stringValue",
+      "value": "Description of the rule."
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "36CF0B67-BE16-49E4-833A-9A38C5A6B377",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "AB7540EC-B2C2-4EB8-8A6A-236353FBEC8C",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,82 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "40E3D655-68AF-429D-B759-37791376FF93",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "388F89E0-D821-4199-A6E7-92F6ADDB927D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "ED268881-8E04-4612-88B3-7C51766AFF72",
+    "height": 956,
+    "width": 1219,
+    "x": 460,
+    "y": 3
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "C95B9FBB-A925-4EF2-A992-D766916E69E7"
+    },
+    {
+      "class": "group",
+      "id": "521C9BEC-A141-4CC7-B6F0-095CBBAE01A6"
+    },
+    {
+      "class": "group",
+      "id": "D98753E1-DD1B-45DA-B309-CDDAAA835E41"
+    },
+    {
+      "class": "group",
+      "id": "2D55CF5C-D926-4E46-9BB4-8028DBF6E5F4"
+    },
+    {
+      "class": "group",
+      "id": "745D2DF4-B20D-4ADA-9D43-F39C17019EBB"
+    },
+    {
+      "class": "group",
+      "id": "AFF3C9BA-C9EE-4F04-ADBA-348D24D620B9"
+    }
+  ],
+  "name": "Cards + Charts",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8CF4D843-6013-45DF-94BD-A2AA5CD3B0E3",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

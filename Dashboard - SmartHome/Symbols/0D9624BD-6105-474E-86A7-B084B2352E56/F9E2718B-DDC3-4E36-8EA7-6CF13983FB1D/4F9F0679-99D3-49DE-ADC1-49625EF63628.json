@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "4F9F0679-99D3-49DE-ADC1-49625EF63628",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5D992339-F3B1-4F74-BF5C-981952A90DDF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2BB992F1-ADAD-4DD3-A11D-ED5F96B1BC3A",
+    "height": 24,
+    "width": 24,
+    "x": 1042,
+    "y": 53
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Chevron",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "63BC01F0-559F-4891-9B99-9049A3B210E4",
+      "overrideName": "49F29BF5-1011-49F4-A8BA-AB6363F29DE9_symbolID",
+      "value": "9AF0891A-AD93-4C70-9E44-9DC58F213CA0"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "42D0F8A7-3095-47A3-A6F5-A334AE104EF2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "1EE23757-3260-4887-B1DB-ED7416A30E0B",
+  "verticalSpacing": 0
+}

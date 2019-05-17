@@ -1,0 +1,67 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "D0FAF1D6-8B92-4177-90D1-B338C0A595E2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 84,
+    "width": 277,
+    "x": 864,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "#4",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3C0EB849-FED3-4845-937B-96E4205DB519",
+      "overrideName": "D4F2AB21-3F3F-4C31-8126-5231E8320623_symbolID",
+      "value": "FA83587D-3FAA-430F-8541-EBF915B938B5"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "56BD39F8-406C-4825-AC80-557B5B2F1C98",
+      "overrideName": "2ACE09DD-AD00-4B68-A83D-1EC6CD77DB76_stringValue",
+      "value": "Kitchen"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "27770D6C-0C24-4B71-B282-AFB23D727CD5",
+      "overrideName": "9979BFCF-63AB-4F41-9DDE-2F709E9C7432_stringValue",
+      "value": "196"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "68E488E0-3AFA-4604-9A91-179780CE74AC",
+  "verticalSpacing": 0
+}

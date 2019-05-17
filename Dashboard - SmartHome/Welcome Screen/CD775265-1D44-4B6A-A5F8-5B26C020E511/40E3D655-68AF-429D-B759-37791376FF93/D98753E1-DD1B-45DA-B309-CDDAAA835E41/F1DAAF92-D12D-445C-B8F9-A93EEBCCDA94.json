@@ -1,0 +1,102 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "F1DAAF92-D12D-445C-B8F9-A93EEBCCDA94",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9F06676D-4B8C-42EF-A8A6-7E49C632DB2B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6A417738-3728-4A40-AE3D-42BCC00F354F",
+    "height": 303,
+    "width": 572,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Card",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D367B6B1-8E58-4CB6-B32B-5768B792E73F",
+      "overrideName": "05DAF208-14C0-4AD6-8F7B-06AED9951CB5/D349E23D-E774-476A-A075-1226239CC3F2_stringValue",
+      "value": "Devices Limit"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5F0F9D0E-F03E-44F5-87C9-C25E178322E2",
+      "overrideName": "05DAF208-14C0-4AD6-8F7B-06AED9951CB5/1C887293-8007-4AE0-BCC0-18DBFF23733B_stringValue",
+      "value": "Most Active Hours"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1.049999952316284,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "4E2CD37C-1A1D-421E-B91C-3EA27EAA17D3",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10.49999952316284,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "34DDF26B-5160-4333-9D07-28EA12EF6BC5",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 94,
+        "color": {
+          "_class": "color",
+          "alpha": 0.5,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 2,
+        "spread": 0
+      }
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "96DEE02A-B12B-4816-81C0-ED67637BB66A",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

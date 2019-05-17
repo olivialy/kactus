@@ -1,0 +1,106 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "7C3A062F-83FC-4B2E-AC47-3BCE522B5B25",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9059DF8C-0E2E-4987-A96D-598006FE699D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "51C3298B-62F0-4532-BE79-9260E60EA6B0",
+    "height": 13,
+    "width": 850,
+    "x": 34,
+    "y": 276
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "A447AF5A-45A1-45C9-A581-459F7C85506A"
+    },
+    {
+      "class": "text",
+      "id": "2AC7AD60-1FA9-4A56-9319-36818173EDBF"
+    },
+    {
+      "class": "text",
+      "id": "81323464-D939-47FF-AE73-81553C60D8BD"
+    },
+    {
+      "class": "text",
+      "id": "C1BF70D8-0023-4C9D-BFA3-01156A3C7665"
+    },
+    {
+      "class": "text",
+      "id": "89930D77-0C3F-4A46-9D93-121AE4BDA611"
+    },
+    {
+      "class": "text",
+      "id": "38451106-6E45-49FD-83D5-38971DA8AC5F"
+    },
+    {
+      "class": "text",
+      "id": "7834B8C3-6E74-478A-AF24-04288D4876FA"
+    },
+    {
+      "class": "text",
+      "id": "484A22BC-4F9E-4667-B7AE-153DACBB9F32"
+    },
+    {
+      "class": "text",
+      "id": "D12EF142-7A4C-42F8-BCDF-535B26680001"
+    },
+    {
+      "class": "text",
+      "id": "D3558896-908B-4CD2-B3F2-9543C4567C13"
+    },
+    {
+      "class": "text",
+      "id": "09ACEB56-837F-46D5-A571-E6DEBCEA0696"
+    },
+    {
+      "class": "text",
+      "id": "210DA4CB-1057-4690-BC9C-489EF5EDB300"
+    }
+  ],
+  "name": "Months",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "07456114-F00A-4C27-8C41-741D2B618045",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

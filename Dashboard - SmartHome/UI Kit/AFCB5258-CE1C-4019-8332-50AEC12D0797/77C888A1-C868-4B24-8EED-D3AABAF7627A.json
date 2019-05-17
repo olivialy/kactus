@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "77C888A1-C868-4B24-8EED-D3AABAF7627A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7507ED5A-284E-49CA-BCF1-7E8062A70BD8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "35856FBE-6235-450A-9B8D-DABFE98C502E",
+    "height": 16,
+    "width": 49,
+    "x": 787,
+    "y": 145
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Organisms / Form / Radio Button Copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "392782A0-917E-4D3C-9287-A306FB997295",
+      "overrideName": "6372D305-6A18-45AF-ACE9-E7081EC3AFF6_symbolID",
+      "value": "B0ADD8F8-1D7D-4C6D-8DF8-938468AB4CDE"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BFEEADBE-6DB3-481E-801E-E428E18E44CA",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "0F6A5378-0057-45B7-88F6-77502F929CD2",
+  "verticalSpacing": 0
+}

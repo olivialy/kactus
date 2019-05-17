@@ -1,0 +1,60 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "C5FBF71C-C5A9-4510-B504-44D297277F13",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "738B2B58-6BB9-4E62-8439-8AB2427508F4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D9D6FD33-6797-4327-9AE9-D7E9B55C05E0",
+    "height": 35,
+    "width": 265,
+    "x": 281,
+    "y": 112
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "3C39AB55-9BE2-4FFC-810E-24A611BD7A26"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A57BC784-AB4A-4CCB-A0D1-1B5C9C6FAB0E"
+    }
+  ],
+  "name": "Tabs",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "438204C4-12D2-49CC-8DEE-4F9FD3D1B0F0",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

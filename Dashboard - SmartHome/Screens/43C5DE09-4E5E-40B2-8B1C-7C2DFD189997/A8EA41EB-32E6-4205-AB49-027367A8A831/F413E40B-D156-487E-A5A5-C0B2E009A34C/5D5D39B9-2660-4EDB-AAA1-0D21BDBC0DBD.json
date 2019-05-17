@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "5D5D39B9-2660-4EDB-AAA1-0D21BDBC0DBD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "23C5C89E-A374-4276-8A72-25B108261610",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8A249CE2-5262-41E7-93AA-CA96B0F2FB4F",
+    "height": 24,
+    "width": 24,
+    "x": 34,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Pie",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1760ECAD-565C-4EC3-A86C-B80EE7C01888",
+      "overrideName": "25215219-D346-48F5-B27B-75FE1F125551_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CDFDC5BA-005B-477F-8356-E3A5FF72824F",
+      "overrideName": "93F9A466-537C-406C-BC69-F2F2F797663C_layerStyle",
+      "value": "97C59B16-2599-49DF-B350-4E38611934EB"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FDB7C8E9-D2DB-4D7E-A784-F50CF75625B3",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "13811B89-36D3-4F2E-A227-3AF4EDD40542",
+  "verticalSpacing": 0
+}

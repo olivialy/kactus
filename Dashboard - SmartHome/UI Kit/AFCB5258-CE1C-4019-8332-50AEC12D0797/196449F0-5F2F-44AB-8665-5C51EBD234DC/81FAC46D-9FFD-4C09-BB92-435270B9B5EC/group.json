@@ -1,0 +1,88 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "81FAC46D-9FFD-4C09-BB92-435270B9B5EC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9A2F8A37-D441-4D25-80BB-74F8F4E4CD95",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B0314CA8-6046-4C58-ABCF-AB39D9F2D068",
+    "height": 309,
+    "width": 1141,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "BC424C0B-07E8-4FB1-9988-18AB3700EFE6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C5EB835F-4131-4663-9354-8A1154A91772"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FE6CA0D0-7C02-44FD-AFFE-2795A1434539"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B9883FAD-FA21-4C92-90AA-8B29137F002E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "312486A7-488B-40DA-A879-B820F3DFEB40"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D988587B-FA14-4207-BEB0-40ADF0B651AE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B472D546-28A7-4015-B9B3-CA0B84BA65F4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B7F3719D-A5AC-483A-A544-810EEFEEEC9C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BACB8DCB-349B-4B5D-BB13-17A4B62011A4"
+    }
+  ],
+  "name": "Time",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "94590200-43E2-4E15-BC34-1F24162DB370",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

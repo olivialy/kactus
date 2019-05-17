@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "A3B15591-525C-41DC-9520-9768B799AFE1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "28B494D9-909D-4891-85C3-6D9DCEBDBB07",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DF9C41CA-1A67-47C0-BB43-0AF70AAE01D0",
+    "height": 84,
+    "width": 277,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "#1",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "477287C4-64B6-4003-8A20-057606DB129A",
+      "overrideName": "2ACE09DD-AD00-4B68-A83D-1EC6CD77DB76_stringValue",
+      "value": "Living Room"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9B17B98A-17A8-4F5B-BAB3-633478399C72",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "68E488E0-3AFA-4604-9A91-179780CE74AC",
+  "verticalSpacing": 0
+}

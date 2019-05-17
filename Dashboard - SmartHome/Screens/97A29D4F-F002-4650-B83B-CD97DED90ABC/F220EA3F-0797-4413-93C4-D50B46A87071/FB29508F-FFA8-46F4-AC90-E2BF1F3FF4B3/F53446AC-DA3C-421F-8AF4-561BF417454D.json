@@ -1,0 +1,61 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "F53446AC-DA3C-421F-8AF4-561BF417454D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 132,
+    "width": 1141,
+    "x": 0,
+    "y": 413
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "#4",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2085CF44-D2AC-4D2E-92D9-3CD221FC01B4",
+      "overrideName": "E39577E8-5A87-4ACE-9BE7-F18252588D87_stringValue",
+      "value": "April"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A42FBA8E-0D14-45D6-850C-5C5FEA1F9B8A",
+      "overrideName": "3C7DA474-DD18-4729-8D94-08C0E24C2054_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "6554B237-9DEC-4202-871D-B8407823A0A4",
+  "verticalSpacing": 0
+}

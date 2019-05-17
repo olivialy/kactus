@@ -1,0 +1,74 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "39A16B67-5024-4D4C-8116-77445004F272",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EE0FBD02-B7E0-43B3-AC79-4EC0EF3EA844",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F33195D7-0BA0-429D-AF97-39522C3E8E70",
+    "height": 290,
+    "width": 180,
+    "x": 21,
+    "y": 71
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "BBD38154-EE9B-4091-8151-9F6F4D748879"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2A6585CD-330A-4E13-AFAE-DE7BFE62F846"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "20CBE390-970D-48ED-AE9A-F3EBC78D3276"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1C7E1C97-1299-4BE6-9110-69F83C40D0ED"
+    }
+  ],
+  "name": "Donnut Charts",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A2136A0A-354F-4223-9B71-EAEF283635EE",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

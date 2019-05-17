@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "8247941C-5912-4B3A-81FD-58AE6DDE7DFF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9A567CC0-4D46-4B52-A0EF-50EFA655367E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "616F53BA-3CA1-473C-95A3-281FFB3C341A",
+    "height": 16,
+    "width": 288,
+    "x": 0,
+    "y": 29
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Switch",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E142F15D-36A0-4935-84EE-24D819C519DF",
+      "overrideName": "417E617D-17EC-47D8-80F0-38F927E22042_stringValue",
+      "value": "Receive daily email notification any time."
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "08B98241-5352-42F4-B216-070F2E321522",
+      "overrideName": "F5994AD3-DE46-469C-B0A3-1C6181ED3E9A_symbolID",
+      "value": "D97135EC-C9A6-43EF-95F5-0F622670F560"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "66DC6376-59F6-4EB5-A440-81C540A90DFB",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "02D2918B-C085-4FF4-B8D4-A8DEB01C6109",
+  "verticalSpacing": 0
+}

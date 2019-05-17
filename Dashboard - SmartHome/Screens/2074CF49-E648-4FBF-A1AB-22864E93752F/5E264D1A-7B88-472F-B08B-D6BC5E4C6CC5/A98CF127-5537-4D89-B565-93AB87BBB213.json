@@ -1,0 +1,85 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "A98CF127-5537-4D89-B565-93AB87BBB213",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 170,
+    "width": 278,
+    "x": 0,
+    "y": 396
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Camera",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7AB0F458-0CFD-43FF-8A00-E6F01F5F2E6D",
+      "overrideName": "9550D6F3-9307-45BC-84BF-B3461B771E18/B9AAC29F-F3D9-435B-9DD3-50C187DE27D7/D349E23D-E774-476A-A075-1226239CC3F2_stringValue",
+      "value": "Camera"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0C61AA71-C3F0-41E6-99A2-9F3AE24B9261",
+      "overrideName": "4A5A5B66-42C4-400B-8F16-B89C5DF6FA50_symbolID",
+      "value": "E0A7959B-2597-4C68-BE0D-A9E304D5CB20"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AEE07A6C-DBCB-44F3-A991-B78E79438693",
+      "overrideName": "BA42F2A6-83D0-4649-983A-5190BD31D5D1/CDBF48E3-B159-4426-BAAB-7B654A0D2F48_symbolID",
+      "value": "9AF0891A-AD93-4C70-9E44-9DC58F213CA0"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8D89A3C5-1A9C-47D6-BB39-5A7BE8273BC2",
+      "overrideName": "9550D6F3-9307-45BC-84BF-B3461B771E18/B9AAC29F-F3D9-435B-9DD3-50C187DE27D7/1C887293-8007-4AE0-BCC0-18DBFF23733B_stringValue",
+      "value": "Camera"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A469C3C5-FAC7-4C6A-A92B-4AE1FADA370A",
+      "overrideName": "9550D6F3-9307-45BC-84BF-B3461B771E18/B9AAC29F-F3D9-435B-9DD3-50C187DE27D7/ECD61EBC-9CD0-46CC-A4B2-F4CE967A029C_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "8433E4C4-0E25-4D45-B710-A1E111465E35",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

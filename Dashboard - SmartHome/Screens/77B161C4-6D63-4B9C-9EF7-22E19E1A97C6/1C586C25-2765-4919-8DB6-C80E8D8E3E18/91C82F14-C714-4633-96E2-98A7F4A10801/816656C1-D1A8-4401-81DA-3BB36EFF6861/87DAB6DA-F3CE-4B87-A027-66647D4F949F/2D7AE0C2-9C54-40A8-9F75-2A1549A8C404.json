@@ -1,0 +1,61 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "2D7AE0C2-9C54-40A8-9F75-2A1549A8C404",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 87,
+    "width": 151,
+    "x": 900,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "#7",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5AD05C4C-60B1-4893-B860-C92C3B00BA95",
+      "overrideName": "AC251A32-D299-417E-82A4-0A9B2363AF7F_stringValue",
+      "value": "SUNDAY"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "58D3F0E4-35E0-4F2A-9B24-23CE191732D8",
+      "overrideName": "ADA3EEAB-3EDC-4818-AF26-57848FB5A45D_stringValue",
+      "value": "14"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "DA6C31AC-6C05-41DA-B06E-6D21BBEFC535",
+  "verticalSpacing": 0
+}

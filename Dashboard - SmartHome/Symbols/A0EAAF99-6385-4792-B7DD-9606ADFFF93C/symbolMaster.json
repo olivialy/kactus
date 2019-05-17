@@ -1,0 +1,155 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "CA62E751-6C05-4464-A1F9-37DAE8B044FB",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 5428,
+  "clippingMaskMode": 0,
+  "do_objectID": "A0EAAF99-6385-4792-B7DD-9606ADFFF93C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FC051286-200D-4A5D-A01E-6297136D6F0D",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1F62FB69-025D-4656-B72B-4F928CD73C7E",
+    "height": 24,
+    "width": 24,
+    "x": 7458,
+    "y": 1306
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "8D5DC924-3922-49F3-9338-6333BBB74BE2",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "51D68E1C-1F51-4D25-9699-6D7CF2A45BB2"
+    },
+    {
+      "class": "shapePath",
+      "id": "2AC39A0B-8FAC-4583-910B-70D9BBFD665A"
+    },
+    {
+      "class": "rectangle",
+      "id": "9C1ACC54-8894-4A3D-8EBD-EC8EABF43295"
+    },
+    {
+      "class": "oval",
+      "id": "6E93C7E4-F16C-4BEF-9520-235CD7B644A2"
+    }
+  ],
+  "name": "Organisms / Left Hand Nav / icons /Device_active",
+  "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "2AC39A0B-8FAC-4583-910B-70D9BBFD665A_image"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "9C1ACC54-8894-4A3D-8EBD-EC8EABF43295_image"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "51D68E1C-1F51-4D25-9699-6D7CF2A45BB2_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "6E93C7E4-F16C-4BEF-9520-235CD7B644A2_image"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "51D68E1C-1F51-4D25-9699-6D7CF2A45BB2_image"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "9C1ACC54-8894-4A3D-8EBD-EC8EABF43295_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "2AC39A0B-8FAC-4583-910B-70D9BBFD665A_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "6E93C7E4-F16C-4BEF-9520-235CD7B644A2_layerStyle"
+    }
+  ],
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "938EA085-EB91-4B98-9EA4-3D8CB92EDC15",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "E92A4E17-A913-444F-BD3C-2E40D2FBC77F",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "646D5807-DF57-4A1B-AA62-99438AE52118",
+    "guides": [
+    ]
+  }
+}

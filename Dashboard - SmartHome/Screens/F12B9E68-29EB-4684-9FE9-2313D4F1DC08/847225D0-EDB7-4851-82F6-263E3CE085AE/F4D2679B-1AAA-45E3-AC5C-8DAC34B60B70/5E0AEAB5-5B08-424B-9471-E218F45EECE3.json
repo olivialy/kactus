@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "5E0AEAB5-5B08-424B-9471-E218F45EECE3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "90A040F8-E0C6-42FC-98ED-626116FA76B7",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B99CCD66-5477-4E38-A7F0-D80A135A8426",
+    "height": 76.26666666666665,
+    "width": 89.57142857142858,
+    "x": 61.70476190476191,
+    "y": 72.3047619047619
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Chart",
+  "nameIsFixed": true,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CBDE8B31-72FA-451E-9DDA-62540FC0C308",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "4A0C76B8-1972-4415-B103-45E4DA50DBE5",
+  "verticalSpacing": 0
+}

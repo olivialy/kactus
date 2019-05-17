@@ -1,0 +1,61 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "C6C2C975-1C61-4E39-B601-FA1784C0FD50",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 87,
+    "width": 151,
+    "x": 450,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "#4",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2521E018-28B9-4BCA-AD90-59B094F863FC",
+      "overrideName": "8C44EE73-0524-4A07-B9EB-69B41BAF4ABF_stringValue",
+      "value": "THURSDAY"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8DD71844-66D7-45F1-BA6A-CD6FA2C95E43",
+      "overrideName": "099D27C4-C385-422A-9D1A-98ACD6F2E298_stringValue",
+      "value": "11"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "30D815BA-5641-4B4F-B6A7-26F7DC34043D",
+  "verticalSpacing": 0
+}
